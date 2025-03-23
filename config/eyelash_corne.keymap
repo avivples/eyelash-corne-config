@@ -15,7 +15,7 @@
 // custom helpers
 #include "zmk-helpers/helper.h"
 #include "eyelash_corne/keymap.h"
-#include "zmk-helpers/unicode-chars/french.dtsi"
+#include "zmk-helpers/unicode-chars/greek.dtsi"
 #include "zmk-helpers/unicode-chars/currency.dtsi"
 
 
